@@ -1,0 +1,8 @@
+insert a 3
+insert b 3
+delete
+insert c 3
+insert d 3
+delete
+delete
+delete
